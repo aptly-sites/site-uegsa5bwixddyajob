@@ -5,7 +5,10 @@
   ],
   "exclude": [
     "/_next/static/*",
+    "/apple-touch-icon.png",
     "/brand/*",
+    "/favicon.ico",
+    "/favicon.png",
     "/favicon.svg",
     "/file.svg",
     "/globe.svg",
