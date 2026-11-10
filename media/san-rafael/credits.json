@@ -1,0 +1,110 @@
+[
+  {
+    "key": "falkirk",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Falkirk_Mansion%2C_also_known_as_the_Robert_Dollar_Estate.jpg/1280px-Falkirk_Mansion%2C_also_known_as_the_Robert_Dollar_Estate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Falkirk_Mansion,_also_known_as_the_Robert_Dollar_Estate.jpg",
+    "author": "Marthature",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "local": "/media/san-rafael/falkirk.jpg"
+  },
+  {
+    "key": "civic-center",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Marin_County_Civic_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:Marin_County_Civic_Center.jpg",
+    "author": "Kiddo27",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "local": "/media/san-rafael/civic-center.jpg"
+  },
+  {
+    "key": "china-camp",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Pier_at_China_Camp_State_Park.jpg/1280px-Pier_at_China_Camp_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Pier_at_China_Camp_State_Park.jpg",
+    "author": "Kiddo27",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "local": "/media/san-rafael/china-camp.jpg"
+  },
+  {
+    "key": "sol-food",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Sol_Food%2C_San_Rafael%2C_CA_%283427415733%29.jpg/1280px-Sol_Food%2C_San_Rafael%2C_CA_%283427415733%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Sol_Food,_San_Rafael,_CA_(3427415733).jpg",
+    "author": "Sharon from Sydney, Australia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "local": "/media/san-rafael/sol-food.jpg"
+  },
+  {
+    "key": "il-davide",
+    "url": "https://cdn.spotapps.co/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/72/a332041eea42c98e865b45f4944d08/:original",
+    "source": "https://ildavide.net/",
+    "author": "il-davide",
+    "license": "Official venue website image; reuse approval not documented. Local preview only.",
+    "licenseUrl": "",
+    "local": "/media/san-rafael/il-davide.jpg"
+  },
+  {
+    "key": "pond-farm",
+    "url": "https://static.wixstatic.com/media/00d274_1a0506f0ac7f4ddbaa5804f469519b06~mv2.jpg",
+    "source": "https://www.pondfarmbrewing.com/",
+    "author": "pond-farm",
+    "license": "Official venue website image; reuse approval not documented. Local preview only.",
+    "licenseUrl": "",
+    "local": "/media/san-rafael/pond-farm.jpg"
+  },
+  {
+    "key": "los-moles",
+    "url": "https://images.getbento.com/accounts/638e5e8aa7e473a3ed28c161978f7a3b/media/images/60316MOLE_POBLANO.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&h=600",
+    "source": "https://www.losmoles.com/location/los-moles-san-rafael/",
+    "author": "los-moles",
+    "license": "Official venue website image; reuse approval not documented. Local preview only.",
+    "licenseUrl": "",
+    "local": "/media/san-rafael/los-moles.jpg"
+  },
+  {
+    "key": "lotus",
+    "url": "https://cdn.prod.website-files.com/67aa834395fffab892104661/67abcab8186c539095738df7_bkg-img_hero.avif",
+    "source": "https://www.lotusrestaurant.com/",
+    "author": "lotus",
+    "license": "Official venue website image; reuse approval not documented. Local preview only.",
+    "licenseUrl": "",
+    "local": "/media/san-rafael/lotus.avif"
+  },
+  {
+    "key": "joes",
+    "url": "https://static.wixstatic.com/media/d998eb_bedddf65da594ee5a60197af6bd45a0e~mv2.jpg",
+    "source": "https://www.sanrafaeljoes.com/",
+    "author": "joes",
+    "license": "Official venue website image; reuse approval not documented. Local preview only.",
+    "licenseUrl": "",
+    "local": "/media/san-rafael/joes.jpg"
+  },
+  {
+    "key": "gerstle-park",
+    "url": "https://gerstlepark.com/wp-content/uploads/2026/07/IMG_2306-scaled.jpeg",
+    "source": "https://gerstlepark.com/",
+    "author": "Gerstle Park Neighborhood Association",
+    "license": "Association website image; reuse approval not documented. Local preview only.",
+    "licenseUrl": "",
+    "local": "/media/san-rafael/gerstle-park.jpg"
+  },
+  {
+    "key": "le-comptoir",
+    "url": "",
+    "source": "https://www.lecomptoirsr.com/",
+    "author": "Photo supplied by PRANDI",
+    "license": "User-supplied photo approved for this website",
+    "licenseUrl": "",
+    "local": "/media/san-rafael/le-comptoir.png"
+  },
+  {
+    "key": "la-toscana",
+    "url": "",
+    "source": "https://ristorantelatoscana.com/",
+    "author": "Photo supplied by PRANDI",
+    "license": "User-supplied photo approved for this website",
+    "licenseUrl": "",
+    "local": "/media/san-rafael/la-toscana.png"
+  }
+]

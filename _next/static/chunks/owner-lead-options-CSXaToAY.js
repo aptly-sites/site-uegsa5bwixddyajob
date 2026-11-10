@@ -1,0 +1,1 @@
+var e=[`Single Family Home`,`Condo`,`Townhouse`,`Apartment or Studio`,`Duplex`,`Triplex`,`Building Complex`,`Other`],t=[`Understand my home's rental value`,`Get my home ready to rent`,`Find a new property manager`,`Lease my vacant home`,`Discuss ongoing management`];export{e as n,t};
