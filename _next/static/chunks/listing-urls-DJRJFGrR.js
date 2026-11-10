@@ -1,1 +1,0 @@
-function e(e){return e.replace(/½/g,`-1-2`).normalize(`NFKD`).replace(/[\u0300-\u036f]/g,``).toLowerCase().replace(/[^a-z0-9]+/g,`-`).replace(/^-+|-+$/g,``)}function t(t){let n=e([t.city,t.state,t.address,t.zip].filter(Boolean).join(` `));return`/properties/${n?n+`-`:``}${t.id}`}export{t};
