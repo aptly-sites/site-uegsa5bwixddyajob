@@ -1,0 +1,21 @@
+name: Configure private website review
+on:
+  workflow_dispatch:
+jobs:
+  configure:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure server-only review access and deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          REVIEW_SERVICE_TOKEN: ${{ secrets.STUDIO_REVIEW_SERVICE_TOKEN }}
+        run: |
+          test -n "$REVIEW_SERVICE_TOKEN"
+          printf '%s' "$REVIEW_SERVICE_TOKEN" | npx --yes wrangler@4 pages secret put STUDIO_REVIEW_SERVICE_TOKEN --project-name=site-uegsa5bwixddyajob
+          printf 'true' | npx --yes wrangler@4 pages secret put WEBSITE_REVIEW_ENABLED --project-name=site-uegsa5bwixddyajob
+          npx --yes wrangler@4 pages deploy . --project-name=site-uegsa5bwixddyajob
